@@ -137,11 +137,11 @@ const Projects = () => {
           <div className="text-container text-white lg:space-y-4 space-y-2 md:space-y-3 sm:space-y-3">
             <h1 className="hidden-text font-bold font-Glimer-Bold cursor-default lg:text-4xl text-2xl sm:text-3xl 2xl:text-5xl lg:mt-0 mt-5">
               <div className="content-line flex lg:justify-end items-center m-0 lg:h-[52px] 2xl:h-[60px] overflow-hidden bg-[#420fe7] ">
-                <div className="content-line-inner">BlueMercury.com - Clone</div>
+                <div className="content-line-inner">BlueMercury.com</div>
               </div>
             </h1>
             <p className="font-normal cursor-default font-Glimer-Light text-white/90 xl:text-2xl  sm:text-xl 2xl:text-3xl vvs:text-base text-sm lg:text-right">
-              An E-Commerce platform for buying the luxury cosmetics 
+              COLLOBORATIVE PROJECT - Clone of an E-Commerce platform for buying the luxury cosmetics 
               and premium products online.
             </p>
             <div className="btn-row flex justify-start space-x-6 items-center lg:justify-end">
@@ -176,8 +176,8 @@ const Projects = () => {
               </div>
             </h1>
             <p className="font-normal cursor-default font-Glimer-Light text-white/90 xl:text-2xl sm:text-xl 2xl:text-3xl vvs:text-base text-sm">
-            Bewakoof was initiated with a mission of
-            bringing style and wit into the lives of young students by giving trending options.
+            COLLOBORATIVE PROJECT - Clone Of An E-Commerce Platform Bewakoof.com platform for buying the Gen-z Trendy 
+               clothes and accessories online.
             </p>
             <div className="btn-row flex justify-start space-x-6 items-center">
               <div className="github-btn">
@@ -225,12 +225,12 @@ const Projects = () => {
           <div className="text-container text-white lg:space-y-4 space-y-2 md:space-y-3 sm:space-y-3">
             <h1 className="hidden-text font-bold font-Glimer-Bold cursor-default lg:text-4xl text-2xl sm:text-3xl 2xl:text-5xl lg:mt-0 mt-5">
               <div className="content-line flex lg:justify-end items-center m-0 lg:h-[52px] 2xl:h-[60px] overflow-hidden bg-[#420fe7] ">
-                <div className="content-line-inner">Organic Honey Store - Original Idea</div>
+                <div className="content-line-inner">Organic Honey Store</div>
               </div>
             </h1>
             <p className="font-normal cursor-default font-Glimer-Light text-white/90 xl:text-2xl  sm:text-xl 2xl:text-3xl vvs:text-base text-sm lg:text-right">
-              An E-commerce platform to buy natural Organic Honey Online
-              Currently Available in Tier-1 Cities Only.
+            COLLOBORATIVE PROJECT Original Idea - An E-commerce
+             platform to buy natural Organic Honey Online.
             </p>
             <div className="btn-row flex justify-start space-x-6 items-center lg:justify-end">
               <div className="github-btn">
@@ -260,12 +260,12 @@ const Projects = () => {
           <div className="text-container text-white lg:space-y-4 space-y-2 md:space-y-3 sm:space-y-3 ">
             <h1 className="hidden-text font-bold font-Glimer-Bold cursor-default lg:text-4xl text-2xl sm:text-3xl 2xl:text-5xl lg:mt-0 mt-5">
               <div className="content-line flex items-center m-0 lg:h-[52px] 2xl:h-[60px] overflow-hidden bg-[#420fe7]">
-                <div className="content-line-inner">Easy Staff</div>
+                <div className="content-line-inner">Youtube</div>
               </div>
             </h1>
             <p className="font-normal cursor-default font-Glimer-Light text-white/90 xl:text-2xl  sm:text-xl 2xl:text-3xl vvs:text-base text-sm">
-              Easy Staff allows you to manage your staff's attendance, salary
-              and payments in few clicks.
+              Soon Will be working on Full Frond-end and Back-end of this
+              Youtube Clone
             </p>
             <div className="btn-row flex justify-start space-x-6 items-center">
               <div className="github-btn">
@@ -298,8 +298,8 @@ const Projects = () => {
             <div className="img-container absolute top-0 left-0 bg-[#420fe7] w-full h-full"></div>
           </div>
         </div>
-
-        {/* Planitio */}
+{/*  
+         Planitio 
         <div className="container lg:space-x-2 flex flex-col lg:flex-row lg:justify-between lg:items-center items-start invisible">
           <div className="lg:h-[400px] 2xl:h-[500px] h-[250px] sm:h-[300px] md:h-[350px] w-full relative overflow-hidden img-wrapper">
             <img
@@ -341,9 +341,10 @@ const Projects = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> 
+        
 
-        {/* Bloggy */}
+         Bloggy 
         <div className="container lg:space-x-2 flex flex-col-reverse lg:flex-row lg:justify-between lg:items-center items-start invisible">
           <div className="text-container text-white lg:space-y-4 space-y-2 md:space-y-3 sm:space-y-3 ">
             <h1 className="hidden-text font-bold font-Glimer-Bold cursor-default lg:text-4xl text-2xl sm:text-3xl 2xl:text-5xl lg:mt-0 mt-5">
@@ -376,7 +377,7 @@ const Projects = () => {
               </div>
             </div>
           </div>
-
+          
           <div className="lg:h-[400px] 2xl:h-[500px] h-[250px] sm:h-[300px] md:h-[350px] w-full relative overflow-hidden img-wrapper">
             <img
               src={bloggy}
@@ -385,10 +386,10 @@ const Projects = () => {
             />
             <div className="img-container absolute top-0 left-0 bg-[#420fe7] w-full h-full"></div>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
-  );
+  ); 
 };
 
 export default Projects;
