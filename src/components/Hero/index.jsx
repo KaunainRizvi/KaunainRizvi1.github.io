@@ -80,7 +80,7 @@ const Hero = () => {
 <div className="flex items-center">
   <div className="h-[1px] md:w-10 sm:w-7 vvs:w-5 w-4 bg-white"></div>
   <a
-    href="https://drive.google.com/file/d/1cjsSjexl6LW9QqUWLxo6GrklT9S9nbYz/view?usp=drive_link"  
+    href="https://drive.google.com/file/d/1ML6yNdFlGDaRKRXVgoGma_JZ7yu4tm3z/view?usp=sharing"  
     download="Kaunain Rizvi's Resume"       
     target="_blank"                 
     className="text-white font-Glimer-Medium font-medium hover:text-[#EEA1BE] transition-colors duration-300 ease-in-out capitalize vss:text-sm md:text-base xl:text-lg text-xs"
