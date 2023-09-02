@@ -80,13 +80,15 @@ const Hero = () => {
 <div className="flex items-center">
   <div className="h-[1px] md:w-10 sm:w-7 vvs:w-5 w-4 bg-white"></div>
   <a
-    href="https://drive.google.com/drive/folders/1qTIDEa02Ale0RIsqskMx9RYh8Xc27I2f?usp=drive_link"  
-    download="Kaunain Rizvi's Resume.pdf"      
+    href="https://drive.google.com/file/d/1di_z_A2oX1NEcTtxHBA0GsgDMUG2_T3x/view?usp=drive_link"  
+    download="Kaunain Rizvi's Resume"       
+    target="_blank"                 
     className="text-white font-Glimer-Medium font-medium hover:text-[#EEA1BE] transition-colors duration-300 ease-in-out capitalize vss:text-sm md:text-base xl:text-lg text-xs"
   >
     Download My Resume
   </a>
 </div>
+
 
 
         </motion.div>
